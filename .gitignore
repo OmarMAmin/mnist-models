@@ -10,10 +10,15 @@ data/*
 *.pyc
 *.csv
 Submissions/*
+Submissions
 cnn_finetune/*
+cnn_finetune
 capsnetkeras/*
+capsnetkeras
 *.h
 *.h5
 __pycache__/*
+__pycache__
 *.ini
 keras-resnet/*
+keras-resnet
