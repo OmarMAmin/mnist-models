@@ -9,3 +9,10 @@ data/*
 .ipynb_checkpoints
 *.pyc
 *.csv
+Submissions/*
+cnn_finetune/*
+capsnetkeras/*
+*.h
+*.h5
+__pycache__/*
+*.ini
