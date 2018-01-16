@@ -16,3 +16,4 @@ capsnetkeras/*
 *.h5
 __pycache__/*
 *.ini
+keras-resnet/*
